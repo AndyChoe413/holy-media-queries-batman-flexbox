@@ -103,9 +103,9 @@
   }
 
   #middle {
-    display: flex;
     flex-direction: column;
   }
+
   #nav {
     height: 25%;
     width: 100%;
@@ -118,7 +118,6 @@
 
   #articles {
     width: 50%;
-    text-align: center;
   }
 
   #ads {
